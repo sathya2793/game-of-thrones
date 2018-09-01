@@ -6,8 +6,8 @@ Github repository:https://github.com/sathya2793/game-of-thrones/
 
 used many npm like
 
-aos
-bootstrap-select
-ng2-go-top-button
-ngx-spinner
-ngx-toastr
+* aos
+* bootstrap-select
+* ng2-go-top-button
+* ngx-spinner
+* ngx-toastr
